@@ -1,0 +1,25 @@
+{
+  "name": "vue-geetest",
+  "version": "1.0.0",
+  "description": "geetest plugin for vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qizf7/vue-geetest.git"
+  },
+  "keywords": [
+    "geetest",
+    "vue",
+    "vue.js",
+    "plugin"
+  ],
+  "author": "qizf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qizf7/vue-geetest/issues"
+  },
+  "homepage": "https://github.com/qizf7/vue-geetest#readme"
+}
